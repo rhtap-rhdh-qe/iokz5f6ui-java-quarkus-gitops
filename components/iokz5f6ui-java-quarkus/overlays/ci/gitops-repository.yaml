@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iokz5f6ui-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iokz5f6ui-java-quarkus-gitops
